@@ -13,7 +13,6 @@
 // ]
 
 
-
 console.log(allPokemon);
 
 function getNames(allPokemon) {
